@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me
 
-<!--
-**Mr-Heathcliff/Mr-Heathcliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A small list
+
+- 🔭 I’m currently working on multiple school projects.
+- 🌱 I’m currently learning java syntax and using java to code.
+- 👯 I’m looking to collaborate on entry level programs.
+- 🤔 I’m looking for help with practicing different coding techniques such as loops and arrays.
+- 💬 Ask me about music and classical literature.
+- 📫 How to reach me: instagram - @ericksbop.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: i love cheese.
+
